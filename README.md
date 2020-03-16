@@ -1,9 +1,10 @@
-# Binance API
+# Go Binance API
 
-To read full documentation, specs and find out which request params are required/optional, please visit the official
-[documentation](https://www.binance.com/restapipub.html) page.
+An API wrapper written in Golang for Binance. 
 
 ## Getting started
+
+First <a href="https://www.binance.com/en/register?ref=10900506" target="_blank">create an account with binance</a>
 
 ```go
 var logger log.Logger
